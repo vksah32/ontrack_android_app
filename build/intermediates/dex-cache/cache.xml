@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-41d680990ce40fecd37d80fe863f9df949ad89ec.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-94ffae0cabf02f64bd82188233d3e62d8a18b952.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-52fe0e13f17686cf618021724eb8a7d38a9e9500.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-dfd1b163e8b1c18321ca5ebb4cc29e18a22aae48.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-b9da456d97168c5f1a0e51498a4d4175a99d1f6f.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-609792b6fefa6d9abe5c5667d20425264fcaa76f.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-6c2891dc061cdd2ec35c8f3b564c7d013e1bbc19.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-994f0265cc05d041c3ad654f5c7cafd9a56657dc.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-f782088d5271908113f8f0d02a4db34d49ba98fd.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-9c3ba66b13b7e9ac5397688abb1043180d8bfa0b.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/libs/Parse-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5811138d4e6cb9d45030e133ef1a61b935154c3a">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/Parse-1.9.0-597a5a5c72b77036ff5c355ce339603e3b99fc73.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-b626cdaef6cab25af33c19f46de05e03b62299f2.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-4cdd8a3d4c7b4143dc3e091d14c79d70e285e5bf.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-96d7e4519a4e2efcad01cd09675c60e5fa2dbce3.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-a5af197d31db869e5bfb320de353fc44ea4dc75c.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-4271cfa5a1e24277366cbd29f95ae283e4a1d726.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-9a885f297e787c21aa38f75d9a6e25458b125405.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-db2b317912e371d6078497e6e236d56cf667630e.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-031cd43119f5d439e9b37862851a62cb8a682058.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-22c33af39e3c7d3919b4c1b33fdbfbe86bd2c92d.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-614596c9e35473e1d1432cfc4518be81d6645565.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-af508205b038f9db65ec6230abe3e4a37d1a90d6.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-f54579e37eefdcc376a268237c8df521ef81042b.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/classes-69022a1d1a36c24cb1fe6c64b164ff283edd1d2c.jar" />
+    </item>
+    <item
+        jar="/Users/erfi/Documents/OnTrack/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/erfi/Documents/OnTrack/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b1f2752f5c72e4b31bb0ce5c9e1683e15c75df0d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,101 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="edu.colby.ontrack.ontrack.LeadActivity"
+    android:background="#ff0b58ac">
+
+    <TextView
+        android:id="@+id/follower_title_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Follow Someone"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/follower_description_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="50dp"
+
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="You can enter a Leader's unique id here and follow their location. You don't have to be lost ever again!"
+
+        android:layout_above="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="45dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/follower_uniqueID_edittext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="10"
+
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/edittext_description_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Unique User ID (pick something relevant)"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="20dp"
+
+        android:layout_above="@+id/uniqueID"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="30dp">
+
+        <ImageButton
+            android:id="@+id/button_follow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/followbutton"
+            android:background="#ff0b58ac" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/white_sheep"
+            android:background="#ff0b58ac" />
+    </LinearLayout>
+
+
+        <ImageButton
+            android:id="@+id/button_cancel_follow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/cancelbutton"
+            android:layout_marginLeft="8dp"
+            android:background="#ff0b58ac" />
+
+
+</LinearLayout>
+
+
+
+

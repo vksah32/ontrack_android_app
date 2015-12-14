@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ff0b58ac">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/no_sheep"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="30dp"
+        />
+
+    <TextView
+        android:id="@+id/error_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Hey im an error place holder!"
+        android:layout_gravity="center"
+        android:textStyle="bold|italic"
+        android:textSize="20dp" />
+
+</LinearLayout>
